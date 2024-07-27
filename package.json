@@ -1,5 +1,5 @@
 {
-  "name": "@mikes/starter",
+  "name": "gributif",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,8 +10,8 @@
     "astro": "astro"
   },
   "devDependencies": {
-    "@astrojs/sitemap": "^3.1.4",
+    "@astrojs/sitemap": "^3.1.6",
     "@astrojs/tailwind": "^5.1.0",
-    "astro": "^4.7.0"
+    "astro": "^4.12.2"
   }
 }
